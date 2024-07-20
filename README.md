@@ -1,4 +1,4 @@
-**My Files is saving in branch `dev`, Do not send PR or Issues to there!**
+**My Files is saving in `files`, Do not send PR or Issues to there!**
 
 ## Free CDN List:
 #### [jsDelivr](https://jsdelivr.net)
